@@ -1,0 +1,7 @@
+# Arquivos de configuração local com dados sensíveis
+config.local.js
+.env
+
+# OS
+.DS_Store
+Thumbs.db
